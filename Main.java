@@ -51,7 +51,7 @@ class BinaryTree {
 
   void search(String name, Node parent) {
     if (parent == null) {
-        System.out.print("<-not found");
+        System.out.print("Erro!");
     } else if (name.compareTo(parent.name) == 0) {
         System.out.print("Found" + parent.cellphone);
     } else if (name.compareTo(parent.name) < 0) {
@@ -59,7 +59,7 @@ class BinaryTree {
     } else if (name.compareTo(parent.name) > 0) {
         search(name, parent.rgt);
     } else {
-        System.out.print("<-not found");
+        System.out.print("Not Found");
     }
   }
 
