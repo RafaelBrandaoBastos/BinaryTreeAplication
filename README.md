@@ -6,6 +6,6 @@ A binary tree is a rooted tree that is also an ordered tree in which every node 
 The tree is implemented in a phonebook, which each node contains a name and a phone number. I used insertion, remotion and search methods based in string comparison, also traversal paths for visualization. 
 </p>
 <p align="justify">
-Ps. Code only works if list.txt is not empty and follows the list file format.
+Ps. Code only works if list.txt content follows the list file format.
 </p>
 <img src="https://github.com/RafaelBrandaoBastos/ConsoleApplicationBinaryTree/blob/master/binarytree.png">
