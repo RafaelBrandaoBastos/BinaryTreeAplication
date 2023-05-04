@@ -115,6 +115,6 @@ public class Main {
     scan2.close();
     scan.close();
     reader.close();
-    System.out.println("Programa finalizado");
+    System.out.println("Execution ended");
   }
 }
