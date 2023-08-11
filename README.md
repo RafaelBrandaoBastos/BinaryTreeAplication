@@ -9,4 +9,4 @@ The tree is implemented in a phonebook, which each node contains a name and a ph
 <p align="justify">
 Ps. Code only works if list.txt content follows the list file format.
 </p>
-<img src="https://github.com/RafaelBrandaoBastos/ConsoleApplicationBinaryTree/blob/master/binarytree.png">
+
