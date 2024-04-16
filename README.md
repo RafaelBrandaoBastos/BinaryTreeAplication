@@ -10,3 +10,4 @@ Ps. Code only works if list.txt content follows the list file format.
 </p>
 https://replit.com/@rafaelbrandaobr/String-Binary-Tree?v=1  
 
+![image](https://github.com/RafaelBrandaoBastos/BinaryTreeAplication/assets/72472711/d8780f90-c6ed-49c7-9d99-e0acbf427683)
